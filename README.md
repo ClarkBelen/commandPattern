@@ -16,4 +16,5 @@ Your challenge is to apply a design pattern that provides a flexible and scalabl
 
 ## UML Class Diagram
 
-![UML diagram](https://github.com/clarkbelen04/commandPattern/assets/142368338/dc8ece42-8bf7-4d4f-aed8-3234c6a2efa2)
+![UML diagram - CommandPattern](https://github.com/ClarkBelen/commandPattern/assets/142368338/d16e3fb3-3cbc-429c-b50d-50b321e659d2)
+
